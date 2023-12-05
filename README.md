@@ -1,2 +1,2 @@
 # musical_artist_case_study
-A Dataset from Viberate of the top 500 artists pertaining to Spotify’s rankings system, along with the rankings of other social media platforms and other listening platforms
+In this report, we will be illuminating correlations in the data pertaining to genres of the artist to explore the role it plays on social media. In order to do so, other metrics such as popularity, what creates different parameters of popularity, the difference between platform statistics, and the difference between artist rankings will be discussed to see if anything has an effect on fan engagement with the artist.
